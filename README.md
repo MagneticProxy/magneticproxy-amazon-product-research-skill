@@ -1,5 +1,7 @@
 # Amazon Product Research and Price Comparison with Magnetic Proxy
 
+**Official Magnetic Proxy agent skills** · Published and maintained by [MagneticProxy](https://github.com/MagneticProxy), the official Magnetic Proxy GitHub organization. [Visit Magnetic Proxy](https://www.magneticproxy.com/).
+
 A sourced comparison matrix that shows which listings and variants are genuinely comparable across regions. This Agent Skill helps **marketplace analysts, ecommerce operators, and product teams comparing public amazon listings** prepare an evidence-based result using Magnetic Proxy for authorized residential routing and regional observations.
 
 

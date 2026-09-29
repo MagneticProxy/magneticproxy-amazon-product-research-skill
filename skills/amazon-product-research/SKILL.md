@@ -2,6 +2,9 @@
 name: amazon-product-research
 description: "Research public Amazon product listings, variants, sellers, price, shipping, and availability across marketplaces with Magnetic Proxy. Use for permitted Amazon product research with an approved data source or access right; not for general competitor price alerts."
 license: MIT
+metadata:
+  author: MagneticProxy
+  repository: https://github.com/MagneticProxy/magneticproxy-amazon-product-research-skill
 ---
 
 # Amazon Product Research and Price Comparison with Magnetic Proxy
